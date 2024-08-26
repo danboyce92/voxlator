@@ -60,6 +60,7 @@
   margin: auto;
   width: clamp(100px, 20vw, 150px);
   padding: 1.5rem 0rem;
+  user-select: none;
 }
 
 .button {
